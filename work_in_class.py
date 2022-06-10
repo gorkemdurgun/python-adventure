@@ -12,4 +12,5 @@ class Dog():
 dog1 = Dog('Poppy', 4, True)
 dog2 = Dog('Hyla', 1, False)
 
+print(dog1.name)
 print(dog1.hisOwner)
